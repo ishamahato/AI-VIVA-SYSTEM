@@ -156,5 +156,3 @@ AI_API_KEY=<your-ai-provider-key>
 
 ---
 
-*README generated from demo recordings. Please correct any *(confirm)* items so it matches
-your actual stack and setup.*
